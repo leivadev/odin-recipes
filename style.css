@@ -1,6 +1,11 @@
+html,
 body {
-  background: radial-gradient(#507255, #488b49, #4aad52);
-  padding: 20px;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(#0d3b66, #61e294, #58d5ee);
   display: flex;
   align-items: center;
   justify-content: center;
