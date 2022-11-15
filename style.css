@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background: radial-gradient(#0d3b66, #61e294, #58d5ee);
+  background: #7092ff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -35,10 +35,17 @@ h2 {
   font-size: 30px;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
 li {
-  margin: 6px;
+  margin: 12px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-style: italic;
+}
+
+a {
+  color: #3363ff;
 }
 
 img {
