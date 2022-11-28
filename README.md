@@ -1,6 +1,6 @@
 # odin-recipes
 
-¡Hello there! This is my first HTML project learning with TOP (the odin project), currently my goal is to apply all my knowledge about basic elements and atributes of HTML.
+¡Hello! This is my first HTML project learning with TOP (the odin project), currently my goal is to apply all my knowledge about basic elements and atributes of HTML.
 
 This project is about a basic recipe website, and my page will be about 3 recipes from my country **Panama**:
 
@@ -8,7 +8,11 @@ This project is about a basic recipe website, and my page will be about 3 recipe
 - arroz con pollo (yellow rice combined with chicken and vegetables.
 - hojaldras (a fry-food dough).
 
-Later on i will update this README with the things i applied to the website.
+## Live preview
+
+website: https://luislev.github.io/odin-recipes/
+
+## Changes
 
 - 6/26/2022: I just finished my first website! i applied some HTML knowledge like:
 
