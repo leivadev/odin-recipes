@@ -10,7 +10,7 @@ This project is about a basic recipe website, and my page will be about 3 recipe
 
 ## Live preview
 
-website: https://luislev.github.io/odin-recipes/
+website: https://leivadev.github.io/odin-recipes/
 
 ## Changes
 
